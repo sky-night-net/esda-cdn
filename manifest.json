@@ -1223,4 +1223,20 @@
     "width": 1448,
     "height": 1086
   }
+  ,{
+    "source": "/images/contact/contactimg2-v2.png",
+    "target": "/images/contact/contactimg2-v2.webp",
+    "sourceBytes": 1902763,
+    "bytes": 125486,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg31-v2.png",
+    "target": "/images/services/valves-pumps/servicesimg31-v2.webp",
+    "sourceBytes": 2221756,
+    "bytes": 207238,
+    "width": 1448,
+    "height": 1086
+  }
 ]
