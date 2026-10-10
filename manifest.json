@@ -1,0 +1,1226 @@
+[
+  {
+    "source": "/favicon.png",
+    "target": "/favicon.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/about/aboutimg10.png",
+    "target": "/images/about/aboutimg10.webp",
+    "sourceBytes": 2288820,
+    "bytes": 210780,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/about/aboutimg11.png",
+    "target": "/images/about/aboutimg11.webp",
+    "sourceBytes": 2126748,
+    "bytes": 196994,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/about/aboutimg12.png",
+    "target": "/images/about/aboutimg12.webp",
+    "sourceBytes": 2254049,
+    "bytes": 235744,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/about/aboutimg3.png",
+    "target": "/images/about/aboutimg3.webp",
+    "sourceBytes": 2272438,
+    "bytes": 204978,
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "source": "/images/about/aboutimg4.png",
+    "target": "/images/about/aboutimg4.webp",
+    "sourceBytes": 1977983,
+    "bytes": 145356,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/about/aboutimg9.png",
+    "target": "/images/about/aboutimg9.webp",
+    "sourceBytes": 2507480,
+    "bytes": 293776,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/admin/adminimg1.png",
+    "target": "/images/admin/adminimg1.webp",
+    "sourceBytes": 35703,
+    "bytes": 32250,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/admin/adminimg2.png",
+    "target": "/images/admin/adminimg2.webp",
+    "sourceBytes": 35703,
+    "bytes": 32250,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/beamex_mc6.png",
+    "target": "/images/beamex_mc6.webp",
+    "sourceBytes": 583646,
+    "bytes": 76130,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/canon_marker.png",
+    "target": "/images/canon_marker.webp",
+    "sourceBytes": 579576,
+    "bytes": 83306,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/careers/careersimg2.png",
+    "target": "/images/careers/careersimg2.webp",
+    "sourceBytes": 2361059,
+    "bytes": 246730,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/careers/careersimg4.png",
+    "target": "/images/careers/careersimg4.webp",
+    "sourceBytes": 2173297,
+    "bytes": 173122,
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "source": "/images/contact/contactimg2.png",
+    "target": "/images/contact/contactimg2.webp",
+    "sourceBytes": 2034448,
+    "bytes": 155000,
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "source": "/images/contact/contactimg4.png",
+    "target": "/images/contact/contactimg4.webp",
+    "sourceBytes": 2038775,
+    "bytes": 167012,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/cooperation/cooperationimg2.png",
+    "target": "/images/cooperation/cooperationimg2.webp",
+    "sourceBytes": 2083502,
+    "bytes": 189200,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/cooperation/cooperationimg4.png",
+    "target": "/images/cooperation/cooperationimg4.webp",
+    "sourceBytes": 2095337,
+    "bytes": 168084,
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "source": "/images/druck_calibrator.png",
+    "target": "/images/druck_calibrator.webp",
+    "sourceBytes": 478983,
+    "bytes": 71300,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/emerson_trex.png",
+    "target": "/images/emerson_trex.webp",
+    "sourceBytes": 624884,
+    "bytes": 125990,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/fluke_multimeter.png",
+    "target": "/images/fluke_multimeter.webp",
+    "sourceBytes": 681023,
+    "bytes": 93890,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/home/homeimg10.png",
+    "target": "/images/home/homeimg10.webp",
+    "sourceBytes": 2239312,
+    "bytes": 208888,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg11.png",
+    "target": "/images/home/homeimg11.webp",
+    "sourceBytes": 2352611,
+    "bytes": 279800,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/home/homeimg12.png",
+    "target": "/images/home/homeimg12.webp",
+    "sourceBytes": 2207055,
+    "bytes": 166714,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg15.png",
+    "target": "/images/home/homeimg15.webp",
+    "sourceBytes": 2588855,
+    "bytes": 326866,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg16.png",
+    "target": "/images/home/homeimg16.webp",
+    "sourceBytes": 2168093,
+    "bytes": 169806,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg17.png",
+    "target": "/images/home/homeimg17.webp",
+    "sourceBytes": 2627382,
+    "bytes": 326450,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg18.png",
+    "target": "/images/home/homeimg18.webp",
+    "sourceBytes": 2197235,
+    "bytes": 221922,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg19.png",
+    "target": "/images/home/homeimg19.webp",
+    "sourceBytes": 2144027,
+    "bytes": 179688,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg20.png",
+    "target": "/images/home/homeimg20.webp",
+    "sourceBytes": 2639748,
+    "bytes": 332480,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg21.png",
+    "target": "/images/home/homeimg21.webp",
+    "sourceBytes": 2214565,
+    "bytes": 205264,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg22.png",
+    "target": "/images/home/homeimg22.webp",
+    "sourceBytes": 2083333,
+    "bytes": 193902,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/home/homeimg23.png",
+    "target": "/images/home/homeimg23.webp",
+    "sourceBytes": 2231420,
+    "bytes": 203302,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg3.png",
+    "target": "/images/home/homeimg3.webp",
+    "sourceBytes": 2568770,
+    "bytes": 295358,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg4.png",
+    "target": "/images/home/homeimg4.webp",
+    "sourceBytes": 2244418,
+    "bytes": 210528,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg5.png",
+    "target": "/images/home/homeimg5.webp",
+    "sourceBytes": 2517666,
+    "bytes": 299006,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg6.png",
+    "target": "/images/home/homeimg6.webp",
+    "sourceBytes": 2500488,
+    "bytes": 276654,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg7.png",
+    "target": "/images/home/homeimg7.webp",
+    "sourceBytes": 1928585,
+    "bytes": 131624,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg8.png",
+    "target": "/images/home/homeimg8.webp",
+    "sourceBytes": 2496304,
+    "bytes": 285916,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/home/homeimg9.png",
+    "target": "/images/home/homeimg9.webp",
+    "sourceBytes": 2356641,
+    "bytes": 237786,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/layout/layoutimg1.png",
+    "target": "/images/layout/layoutimg1.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/layout/layoutimg2.png",
+    "target": "/images/layout/layoutimg2.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/layout/layoutimg3.png",
+    "target": "/images/layout/layoutimg3.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/layout/layoutimg4.png",
+    "target": "/images/layout/layoutimg4.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/manifesto-image.png",
+    "target": "/images/manifesto-image.webp",
+    "sourceBytes": 798757,
+    "bytes": 174226,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/megger_tester.png",
+    "target": "/images/megger_tester.webp",
+    "sourceBytes": 630529,
+    "bytes": 89678,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "source": "/images/other/otherimg3.png",
+    "target": "/images/other/otherimg3.webp",
+    "sourceBytes": 2477043,
+    "bytes": 256566,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/other/otherimg4.png",
+    "target": "/images/other/otherimg4.webp",
+    "sourceBytes": 2294809,
+    "bytes": 220252,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg10.png",
+    "target": "/images/presentation/presentationimg10.webp",
+    "sourceBytes": 2449174,
+    "bytes": 262332,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg11.png",
+    "target": "/images/presentation/presentationimg11.webp",
+    "sourceBytes": 1967339,
+    "bytes": 158322,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg12.png",
+    "target": "/images/presentation/presentationimg12.webp",
+    "sourceBytes": 2524347,
+    "bytes": 309202,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg13.png",
+    "target": "/images/presentation/presentationimg13.webp",
+    "sourceBytes": 2175147,
+    "bytes": 196138,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg14.png",
+    "target": "/images/presentation/presentationimg14.webp",
+    "sourceBytes": 2137901,
+    "bytes": 180852,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg15.png",
+    "target": "/images/presentation/presentationimg15.webp",
+    "sourceBytes": 2326283,
+    "bytes": 285246,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/presentation/presentationimg16.png",
+    "target": "/images/presentation/presentationimg16.webp",
+    "sourceBytes": 2708676,
+    "bytes": 350818,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg17.png",
+    "target": "/images/presentation/presentationimg17.webp",
+    "sourceBytes": 2265661,
+    "bytes": 216074,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg5.png",
+    "target": "/images/presentation/presentationimg5.webp",
+    "sourceBytes": 35703,
+    "bytes": 13916,
+    "width": 404,
+    "height": 482
+  },
+  {
+    "source": "/images/presentation/presentationimg6.png",
+    "target": "/images/presentation/presentationimg6.webp",
+    "sourceBytes": 2443641,
+    "bytes": 273120,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg7.png",
+    "target": "/images/presentation/presentationimg7.webp",
+    "sourceBytes": 2374288,
+    "bytes": 238708,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg8.png",
+    "target": "/images/presentation/presentationimg8.webp",
+    "sourceBytes": 2261981,
+    "bytes": 227188,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/presentation/presentationimg9.png",
+    "target": "/images/presentation/presentationimg9.webp",
+    "sourceBytes": 2651618,
+    "bytes": 331860,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/projects/projectsimg2.png",
+    "target": "/images/projects/projectsimg2.webp",
+    "sourceBytes": 2450162,
+    "bytes": 282662,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/projects/projectsimg3.png",
+    "target": "/images/projects/projectsimg3.webp",
+    "sourceBytes": 2400740,
+    "bytes": 237624,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/projects/projectsimg4.png",
+    "target": "/images/projects/projectsimg4.webp",
+    "sourceBytes": 2227616,
+    "bytes": 206454,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/projects/projectsimg5.png",
+    "target": "/images/projects/projectsimg5.webp",
+    "sourceBytes": 2309088,
+    "bytes": 239206,
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg62.png",
+    "target": "/images/services/chemicals/servicesimg62.webp",
+    "sourceBytes": 2116472,
+    "bytes": 190564,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg63.png",
+    "target": "/images/services/chemicals/servicesimg63.webp",
+    "sourceBytes": 2175754,
+    "bytes": 197034,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg64.png",
+    "target": "/images/services/chemicals/servicesimg64.webp",
+    "sourceBytes": 2310844,
+    "bytes": 232242,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg65.png",
+    "target": "/images/services/chemicals/servicesimg65.webp",
+    "sourceBytes": 2311614,
+    "bytes": 225648,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg66.png",
+    "target": "/images/services/chemicals/servicesimg66.webp",
+    "sourceBytes": 1893866,
+    "bytes": 135348,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/chemicals/servicesimg67.png",
+    "target": "/images/services/chemicals/servicesimg67.webp",
+    "sourceBytes": 2098121,
+    "bytes": 181398,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg77.png",
+    "target": "/images/services/equipment-supply/servicesimg77.webp",
+    "sourceBytes": 2587747,
+    "bytes": 297612,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg78.png",
+    "target": "/images/services/equipment-supply/servicesimg78.webp",
+    "sourceBytes": 2445936,
+    "bytes": 282158,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg79.png",
+    "target": "/images/services/equipment-supply/servicesimg79.webp",
+    "sourceBytes": 2396589,
+    "bytes": 250766,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg80.png",
+    "target": "/images/services/equipment-supply/servicesimg80.webp",
+    "sourceBytes": 2196068,
+    "bytes": 210190,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg81.png",
+    "target": "/images/services/equipment-supply/servicesimg81.webp",
+    "sourceBytes": 2597947,
+    "bytes": 325886,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg82.png",
+    "target": "/images/services/equipment-supply/servicesimg82.webp",
+    "sourceBytes": 2353849,
+    "bytes": 265238,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/equipment-supply/servicesimg83.png",
+    "target": "/images/services/equipment-supply/servicesimg83.webp",
+    "sourceBytes": 2574686,
+    "bytes": 325860,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg114.png",
+    "target": "/images/services/ndt/servicesimg114.webp",
+    "sourceBytes": 2130370,
+    "bytes": 179814,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg115.png",
+    "target": "/images/services/ndt/servicesimg115.webp",
+    "sourceBytes": 2624186,
+    "bytes": 322684,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg116.png",
+    "target": "/images/services/ndt/servicesimg116.webp",
+    "sourceBytes": 2478124,
+    "bytes": 264078,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg117.png",
+    "target": "/images/services/ndt/servicesimg117.webp",
+    "sourceBytes": 2547413,
+    "bytes": 275164,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg118.png",
+    "target": "/images/services/ndt/servicesimg118.webp",
+    "sourceBytes": 2239635,
+    "bytes": 206288,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg126.png",
+    "target": "/images/services/ndt/servicesimg126.webp",
+    "sourceBytes": 2235380,
+    "bytes": 214924,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg127.png",
+    "target": "/images/services/ndt/servicesimg127.webp",
+    "sourceBytes": 2230121,
+    "bytes": 218410,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg128.png",
+    "target": "/images/services/ndt/servicesimg128.webp",
+    "sourceBytes": 2209871,
+    "bytes": 218314,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg129.png",
+    "target": "/images/services/ndt/servicesimg129.webp",
+    "sourceBytes": 2285969,
+    "bytes": 228794,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg130.png",
+    "target": "/images/services/ndt/servicesimg130.webp",
+    "sourceBytes": 2391124,
+    "bytes": 251736,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg131.png",
+    "target": "/images/services/ndt/servicesimg131.webp",
+    "sourceBytes": 2397057,
+    "bytes": 260358,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg132.png",
+    "target": "/images/services/ndt/servicesimg132.webp",
+    "sourceBytes": 2350849,
+    "bytes": 239040,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg133.png",
+    "target": "/images/services/ndt/servicesimg133.webp",
+    "sourceBytes": 2264365,
+    "bytes": 206650,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg134.png",
+    "target": "/images/services/ndt/servicesimg134.webp",
+    "sourceBytes": 2324370,
+    "bytes": 241400,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg135.png",
+    "target": "/images/services/ndt/servicesimg135.webp",
+    "sourceBytes": 2138478,
+    "bytes": 205640,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg136.png",
+    "target": "/images/services/ndt/servicesimg136.webp",
+    "sourceBytes": 2342666,
+    "bytes": 226626,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg137.png",
+    "target": "/images/services/ndt/servicesimg137.webp",
+    "sourceBytes": 2029102,
+    "bytes": 165180,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg138.png",
+    "target": "/images/services/ndt/servicesimg138.webp",
+    "sourceBytes": 2366912,
+    "bytes": 245898,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg139.png",
+    "target": "/images/services/ndt/servicesimg139.webp",
+    "sourceBytes": 2301379,
+    "bytes": 227734,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg140.png",
+    "target": "/images/services/ndt/servicesimg140.webp",
+    "sourceBytes": 2348961,
+    "bytes": 239536,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg141.png",
+    "target": "/images/services/ndt/servicesimg141.webp",
+    "sourceBytes": 2315015,
+    "bytes": 233556,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg142.png",
+    "target": "/images/services/ndt/servicesimg142.webp",
+    "sourceBytes": 2328479,
+    "bytes": 214806,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg143.png",
+    "target": "/images/services/ndt/servicesimg143.webp",
+    "sourceBytes": 2516241,
+    "bytes": 299414,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg144.png",
+    "target": "/images/services/ndt/servicesimg144.webp",
+    "sourceBytes": 2398104,
+    "bytes": 289724,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg145.png",
+    "target": "/images/services/ndt/servicesimg145.webp",
+    "sourceBytes": 2634983,
+    "bytes": 346982,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg146.png",
+    "target": "/images/services/ndt/servicesimg146.webp",
+    "sourceBytes": 2282221,
+    "bytes": 238754,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg147.png",
+    "target": "/images/services/ndt/servicesimg147.webp",
+    "sourceBytes": 2766090,
+    "bytes": 394052,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg148.png",
+    "target": "/images/services/ndt/servicesimg148.webp",
+    "sourceBytes": 2356985,
+    "bytes": 256508,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg149.png",
+    "target": "/images/services/ndt/servicesimg149.webp",
+    "sourceBytes": 2291396,
+    "bytes": 228316,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/ndt/servicesimg150.png",
+    "target": "/images/services/ndt/servicesimg150.webp",
+    "sourceBytes": 2269345,
+    "bytes": 233164,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/ndt/servicesimg151.png",
+    "target": "/images/services/ndt/servicesimg151.webp",
+    "sourceBytes": 2156894,
+    "bytes": 184858,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/overview/servicesimg10.png",
+    "target": "/images/services/overview/servicesimg10.webp",
+    "sourceBytes": 2402255,
+    "bytes": 275362,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/overview/servicesimg11.png",
+    "target": "/images/services/overview/servicesimg11.webp",
+    "sourceBytes": 2463063,
+    "bytes": 287328,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/overview/servicesimg12.png",
+    "target": "/images/services/overview/servicesimg12.webp",
+    "sourceBytes": 2426915,
+    "bytes": 317174,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/overview/servicesimg13.png",
+    "target": "/images/services/overview/servicesimg13.webp",
+    "sourceBytes": 2125277,
+    "bytes": 194582,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/overview/servicesimg14.png",
+    "target": "/images/services/overview/servicesimg14.webp",
+    "sourceBytes": 2437606,
+    "bytes": 285212,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "source": "/images/services/overview/servicesimg15.png",
+    "target": "/images/services/overview/servicesimg15.webp",
+    "sourceBytes": 2321275,
+    "bytes": 223134,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg38.png",
+    "target": "/images/services/personnel/servicesimg38.webp",
+    "sourceBytes": 2153624,
+    "bytes": 189498,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg39.png",
+    "target": "/images/services/personnel/servicesimg39.webp",
+    "sourceBytes": 2153890,
+    "bytes": 165974,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg40.png",
+    "target": "/images/services/personnel/servicesimg40.webp",
+    "sourceBytes": 2363295,
+    "bytes": 242278,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg41.png",
+    "target": "/images/services/personnel/servicesimg41.webp",
+    "sourceBytes": 2211893,
+    "bytes": 201984,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg42.png",
+    "target": "/images/services/personnel/servicesimg42.webp",
+    "sourceBytes": 2097128,
+    "bytes": 162628,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/personnel/servicesimg43.png",
+    "target": "/images/services/personnel/servicesimg43.webp",
+    "sourceBytes": 2035403,
+    "bytes": 153314,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg90.png",
+    "target": "/images/services/rig-maintenance/servicesimg90.webp",
+    "sourceBytes": 2460722,
+    "bytes": 290654,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg91.png",
+    "target": "/images/services/rig-maintenance/servicesimg91.webp",
+    "sourceBytes": 2560501,
+    "bytes": 311206,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg92.png",
+    "target": "/images/services/rig-maintenance/servicesimg92.webp",
+    "sourceBytes": 2271127,
+    "bytes": 227990,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg93.png",
+    "target": "/images/services/rig-maintenance/servicesimg93.webp",
+    "sourceBytes": 2453543,
+    "bytes": 286046,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg94.png",
+    "target": "/images/services/rig-maintenance/servicesimg94.webp",
+    "sourceBytes": 2491579,
+    "bytes": 282276,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/rig-maintenance/servicesimg95.png",
+    "target": "/images/services/rig-maintenance/servicesimg95.webp",
+    "sourceBytes": 2429369,
+    "bytes": 282442,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg47.png",
+    "target": "/images/services/slickline/servicesimg47.webp",
+    "sourceBytes": 2636448,
+    "bytes": 334534,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg48.png",
+    "target": "/images/services/slickline/servicesimg48.webp",
+    "sourceBytes": 2182016,
+    "bytes": 202578,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg49.png",
+    "target": "/images/services/slickline/servicesimg49.webp",
+    "sourceBytes": 2803187,
+    "bytes": 357968,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg50.png",
+    "target": "/images/services/slickline/servicesimg50.webp",
+    "sourceBytes": 2484346,
+    "bytes": 268856,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg51.png",
+    "target": "/images/services/slickline/servicesimg51.webp",
+    "sourceBytes": 2661354,
+    "bytes": 349106,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg52.png",
+    "target": "/images/services/slickline/servicesimg52.webp",
+    "sourceBytes": 2487847,
+    "bytes": 277462,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg53.png",
+    "target": "/images/services/slickline/servicesimg53.webp",
+    "sourceBytes": 2238012,
+    "bytes": 240242,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg54.png",
+    "target": "/images/services/slickline/servicesimg54.webp",
+    "sourceBytes": 2539418,
+    "bytes": 284202,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg55.png",
+    "target": "/images/services/slickline/servicesimg55.webp",
+    "sourceBytes": 2683638,
+    "bytes": 332584,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg56.png",
+    "target": "/images/services/slickline/servicesimg56.webp",
+    "sourceBytes": 2415455,
+    "bytes": 265000,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg57.png",
+    "target": "/images/services/slickline/servicesimg57.webp",
+    "sourceBytes": 2374653,
+    "bytes": 245550,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg58.png",
+    "target": "/images/services/slickline/servicesimg58.webp",
+    "sourceBytes": 2505181,
+    "bytes": 282194,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/slickline/servicesimg59.png",
+    "target": "/images/services/slickline/servicesimg59.webp",
+    "sourceBytes": 2374034,
+    "bytes": 256788,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg68.png",
+    "target": "/images/services/tank-cleaning/servicesimg68.webp",
+    "sourceBytes": 2551122,
+    "bytes": 297520,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg69.png",
+    "target": "/images/services/tank-cleaning/servicesimg69.webp",
+    "sourceBytes": 2518184,
+    "bytes": 293570,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg70.png",
+    "target": "/images/services/tank-cleaning/servicesimg70.webp",
+    "sourceBytes": 2702161,
+    "bytes": 350248,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg71.png",
+    "target": "/images/services/tank-cleaning/servicesimg71.webp",
+    "sourceBytes": 2499559,
+    "bytes": 308332,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg72.png",
+    "target": "/images/services/tank-cleaning/servicesimg72.webp",
+    "sourceBytes": 2357356,
+    "bytes": 249116,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/tank-cleaning/servicesimg73.png",
+    "target": "/images/services/tank-cleaning/servicesimg73.webp",
+    "sourceBytes": 2461776,
+    "bytes": 253442,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg26.png",
+    "target": "/images/services/valves-pumps/servicesimg26.webp",
+    "sourceBytes": 2619518,
+    "bytes": 291036,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg27.png",
+    "target": "/images/services/valves-pumps/servicesimg27.webp",
+    "sourceBytes": 2176236,
+    "bytes": 203714,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg28.png",
+    "target": "/images/services/valves-pumps/servicesimg28.webp",
+    "sourceBytes": 2331336,
+    "bytes": 247872,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg29.png",
+    "target": "/images/services/valves-pumps/servicesimg29.webp",
+    "sourceBytes": 2411228,
+    "bytes": 259198,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg30.png",
+    "target": "/images/services/valves-pumps/servicesimg30.webp",
+    "sourceBytes": 2254124,
+    "bytes": 230790,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/services/valves-pumps/servicesimg31.png",
+    "target": "/images/services/valves-pumps/servicesimg31.webp",
+    "sourceBytes": 2416056,
+    "bytes": 254216,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/shared/sharedimg1.png",
+    "target": "/images/shared/sharedimg1.webp",
+    "sourceBytes": 2131750,
+    "bytes": 198922,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "/images/shared/sharedimg2.png",
+    "target": "/images/shared/sharedimg2.webp",
+    "sourceBytes": 2083329,
+    "bytes": 176074,
+    "width": 1448,
+    "height": 1086
+  }
+]
